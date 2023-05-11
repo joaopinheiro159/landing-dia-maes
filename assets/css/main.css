@@ -809,7 +809,7 @@ p {
 .hero-section {
   position: relative;
   z-index: 1;
-  padding: 100px 0 90px;
+  padding: 90px 0 90px;
   background-image: url(https://preview.uideck.com/items/saaspal/assets/img/hero/hero-bg.svg);
   background-position: top center;
   background-repeat: no-repeat;
