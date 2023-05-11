@@ -244,7 +244,7 @@ p {
   -webkit-transition: all 0.4s ease-in-out;
   transition: all 0.4s ease-in-out;
   border: none;
-  background: #5864ff;
+  background: #a7045f;
   overflow: hidden;
 }
 
@@ -253,9 +253,9 @@ p {
 }
 
 .main-btn.border-btn {
-  border: 2px solid #5864ff;
+  border: 2px solid #a7045f;
   background: 0 0;
-  color: #5864ff;
+  color: #a7045f;
 }
 
 .btn-hover {
@@ -288,7 +288,7 @@ p {
 .scroll-top {
   width: 45px;
   height: 45px;
-  background: #5864ff;
+  background: #a7045f;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -314,7 +314,7 @@ p {
 
 .scroll-top:hover {
   color: #fff;
-  background: rgba(88, 100, 255, 0.8);
+  background: rgba(167, 4, 95, 0.8);
 }
 
 @keyframes animation1 {
@@ -895,9 +895,9 @@ p {
   width: 40px;
   height: 40px;
   border-radius: 50%;
-  background: #fff;
-  border: 3px solid #5864ff;
-  color: #5864ff;
+  background: #a7045f;
+  border: 3px solid #fff;
+  color: #fff;
   left: 15px;
   bottom: 0;
   z-index: 9;
@@ -974,8 +974,8 @@ p {
   width: 130px;
   height: 130px;
   border-radius: 50%;
-  background: rgba(88, 100, 255, 0.1);
-  color: #5864ff;
+  background: rgba(167, 4, 95, 0.1);
+  color: #a7045f;
   margin: auto;
   margin-bottom: 30px;
   font-size: 65px;
@@ -1355,7 +1355,7 @@ p {
 
 .pricing-section .single-pricing .pricing-header .price {
   font-size: 45px;
-  color: #5864ff;
+  color: #a7045f;
 }
 
 .pricing-section .single-pricing .content {
@@ -1386,7 +1386,7 @@ p {
 }
 
 .pricing-section .single-pricing .content ul li i.active {
-  color: #5864ff;
+  color: #a7045f;
 }
 
 .pricing-section .single-pricing .pricing-btn {
@@ -1419,7 +1419,7 @@ p {
 }
 
 .subscribe-section .subscribe-wrapper {
-  background-image: url(https://preview.uideck.com/items/saaspal/assets/img/subscribe/subscribe-bg.svg);
+  background-image: url(/assets/img/subscribe/subscribe-bg.svg);
   padding: 65px 50px 50px;
   border-radius: 30px;
 }
@@ -1494,7 +1494,7 @@ p {
 
 .subscribe-section .subscribe-wrapper .subscribe-form button {
   background: #fff !important;
-  color: #5864ff !important;
+  color: #a7045f !important;
   padding: 17.5px 25px;
   font-weight: 700;
   font-size: 18px;
@@ -1734,7 +1734,7 @@ p {
 }
 
 .footer {
-  background-image: url(https://preview.uideck.com/items/saaspal/assets/img/footer/footer-bg.svg);
+  background-image: url(/assets/img/footer/footer-bg.svg);
   background-size: cover;
   background-position: top right;
   padding-top: 260px;
@@ -1750,7 +1750,7 @@ p {
 @media (max-width: 767px) {
   .footer {
     padding-top: 120px;
-    background: #5864ff;
+    background: #a7045f;
   }
 }
 
@@ -1796,7 +1796,7 @@ p {
 }
 
 .footer .widget-wrapper .footer-widget .socials li a:hover {
-  color: #5864ff;
+  color: #a7045f;
   background: #fff;
 }
 
