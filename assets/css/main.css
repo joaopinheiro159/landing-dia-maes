@@ -1064,7 +1064,7 @@ p {
 }
 
 .box-style .content a.main-btn.border-btn:hover::after {
-  background: rgba(88, 100, 255, 0.2);
+  background: rgba(167, 4, 95, 0.2));
 }
 
 .box-style.color-1 {
@@ -1256,13 +1256,13 @@ p {
   position: absolute;
   left: 0;
   top: 6.5px;
-  -webkit-box-shadow: 0 14px 15px rgba(78, 110, 241, 0.26);
-  box-shadow: 0 14px 15px rgba(78, 110, 241, 0.26);
+  -webkit-box-shadow: 0 14px 15px rgba(167, 4, 95, 0.26);
+  box-shadow: 0 14px 15px rgba(167, 4, 95, 0.26);
 }
 
 .feature-extended-section .feature-extended-wrapper {
   padding: 70px 0;
-  background: rgba(88, 100, 255, 0.1);
+  background: rgba(167, 4, 95, 0.1);
 }
 
 .feature-extended-section .single-feature-extended {
