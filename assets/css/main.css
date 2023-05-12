@@ -55,7 +55,7 @@ button:focus,
 }
 
 a:hover {
-  color: #5864ff;
+  color: #a7045f;
 }
 
 a {
@@ -436,7 +436,7 @@ p {
   width: 200%;
   height: 100%;
   border-style: solid;
-  border-color: #5864ff #5864ff #ddd;
+  border-color: #a7045f #a7045f #ddd;
   border-radius: 50%;
   border-width: 6px;
 }
@@ -1060,11 +1060,11 @@ p {
 }
 
 .box-style .content a.main-btn.border-btn:hover {
-  color: #5864ff;
+  color: #a7045f;
 }
 
 .box-style .content a.main-btn.border-btn:hover::after {
-  background: rgba(167, 4, 95, 0.2));
+  background: rgba(167, 4, 95, 0.2);
 }
 
 .box-style.color-1 {
@@ -1080,15 +1080,15 @@ p {
 }
 
 .box-style.color-2 {
-  border-color: #5864ff;
+  border-color: #a7045f;
 }
 
 .box-style.color-2 .icon {
-  color: #5864ff;
+  color: #a7045f;
 }
 
 .box-style.color-2 .content a:hover {
-  color: #5864ff;
+  color: #a7045f;
 }
 
 .box-style.color-2 .content .main-btn:hover {
@@ -1252,7 +1252,7 @@ p {
   width: 18px;
   height: 18px;
   border-radius: 50%;
-  background: #5864ff;
+  background: #a7045f;
   position: absolute;
   left: 0;
   top: 6.5px;
@@ -1285,7 +1285,7 @@ p {
   font-size: 65px;
   line-height: 1;
   margin-bottom: 30px;
-  color: #5864ff;
+  color: #a7045f;
 }
 
 .feature-extended-section .single-feature-extended .content h3 {
@@ -1334,7 +1334,7 @@ p {
 
 .pricing-section .pricing-nav-wrapper ul li a.active {
   color: #fff;
-  background: #5864ff;
+  background: #a7045f;
 }
 
 .pricing-section .single-pricing {
@@ -1394,6 +1394,7 @@ p {
 }
 
 .pricing-section .single-pricing .pricing-btn .main-btn {
+  margin-bottom: 10px;
   padding: 12px 45px;
   font-weight: 400;
 }
@@ -1506,7 +1507,7 @@ p {
     position: static;
     margin-top: 20px;
     background: #fff;
-    color: #5864ff;
+    color: #a7045f;
     padding: 17.5px 35px;
   }
 }
@@ -1516,7 +1517,7 @@ p {
     position: absolute;
     margin-top: 0;
     color: #fff;
-    background: #5864ff;
+    background: #a7045f;
     padding: 17.5px 25px;
   }
 }
@@ -1639,8 +1640,8 @@ p {
 }
 
 .testimonial-section .testimonial-active-wrapper .tns-controls button:hover {
-  color: #5864ff;
-  border-color: #5864ff;
+  color: #a7045f;
+  border-color: #a7045f;
   -webkit-box-shadow: 0 6px 16px rgba(88, 100, 255, 0.25);
   box-shadow: 0 6px 16px rgba(88, 100, 255, 0.25);
 }
@@ -1697,7 +1698,7 @@ p {
   height: 100px;
   border-radius: 50%;
   border: 10px solid #fff;
-  background: #5864ff;
+  background: #a7045f;
   font-size: 40px;
   line-height: 1;
   color: #fff;
